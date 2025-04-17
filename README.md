@@ -5,5 +5,5 @@
 |Method|Architecture|Precision|Recall|F1|AUC|
 |:----:|:-----|:----:|:-----|:----:|:-----|
 |SHAP|1D CNN|0.805|0.809|0.788|0.98|0.964|
-|Attention Mechanism|CNN+LSTM|||||
+|Attention Mechanism|CNN+LSTM|0.99|0.99|0.99|0.99|
 |GRAD Class-Activation Maps|1DCNN|0.7266|0.7031|0.6667|0.9352|
