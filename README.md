@@ -2,3 +2,8 @@
 ---
 ### Курсовая работа студента группы 23КНТ2 Власова Артёма ИМИКН ВШЭ НН (2025 год)
 ---
+|Method|Architecture|Precision|Recall|F1|AUC|
+|:----:|:-----|:----:|:-----|:----:|:-----|
+|SHAP|1D CNN|0.805|0.809|0.788|0.98|0.964|
+|Attention Mechanism|CNN+LSTM|||||
+|GRAD Class-Activation Maps|1DCNN|0.7266|0.7031|0.6667|0.9352|
