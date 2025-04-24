@@ -6,4 +6,4 @@
 |:----:|:-----|:----:|:-----|:----:|:-----|
 |SHAP|1D CNN|0.805|0.809|0.788|0.981|
 |Attention Mechanism|CNN+LSTM|0.465|0.423|0.429|0.838|
-|GRAD Class-Activation Maps|1DCNN|0.727|0.703|0.667|0.935|
+|GRAD Class-Activation Maps|1D CNN|0.727|0.703|0.667|0.935|
